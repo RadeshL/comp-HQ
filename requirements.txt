@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-multipart
+requests
+beautifulsoup4
+python-docx
+aiofiles
+langchain
+langchain-community
+duckduckgo-search
+selenium
+webdriver-manager
+lxml
