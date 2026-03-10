@@ -24,10 +24,9 @@ comp-HQ is an AI-powered component sourcing assistant that finds the best produc
 - **python-docx** - Word document generation
 
 ### Frontend
-- **React 18** - UI framework
+- **React js** - UI framework
 - **TailwindCSS** - Styling
 - **Axios** - API client
-- **React Router** - Navigation
 
 ## Project Structure
 
