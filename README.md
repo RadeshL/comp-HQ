@@ -258,25 +258,6 @@ Enable debug logging by modifying `backend/main.py`:
 logging.basicConfig(level=logging.DEBUG)
 ```
 
-## Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Support
-
-For issues and questions:
-- Check the troubleshooting section
-- Review API documentation at `/docs`
-- Examine logs for error messages
-
----
 
 **comp-HQ** - Making component sourcing intelligent and efficient! 🚀
